@@ -1,0 +1,41 @@
+Ícones utilizados: https://fontawesome.com/icons?d=gallery
+
+BLOCO A
+    Núcleo de Práticas Júridicas
+    NEAD
+BLOCO B 
+    Psicomotricidade
+    GTI
+    Laboratórios de Informática
+BLOCO C 
+    RH
+    Salas C1 - C8
+BLOCO D 
+    Laboratórios de Biologia
+    Laboratórios de Química
+    Almoxarifado 
+BLOCO E 
+    Laboratório de Alimentos
+    Núcleo de Psicologia
+    Laboratório de Física
+    Salas E1 - E5
+BLOCO F
+    Secretária de Coordenações 
+    Scretária Acadêmica
+    SEA 
+    NCSA 
+    Laboratório de Desenho e Topografia 
+    Biblioteca
+    Praça de Alimentação 
+    Laboratórios de Informática
+BLOCO G 
+    Auditório
+    Sala dos Professores
+    Clínica de Enfermagem 
+    Salas G1 - G30
+BLOCO H 
+    Ginásio
+    Laboratório de Engenharia Civil
+    Campo de Esportes
+Clínica de Fisioterapia 
+Laboratório de Anatomia
